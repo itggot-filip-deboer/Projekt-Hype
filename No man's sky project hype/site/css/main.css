@@ -67,6 +67,11 @@ article {
 
 }
 
+.title {
+  font-size: 22px;
+  text-align: center;
+}
+
 .video {
   padding-left: 10px;
   padding-top: 5px;
