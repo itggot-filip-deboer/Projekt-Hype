@@ -1,3 +1,27 @@
+header {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 7;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 3;
+}
+
 body {
   background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
@@ -9,7 +33,3 @@ body {
   flex-direction: column;
 }
 
-header {
-  display: flex;
-  justify-content: center;
-}
