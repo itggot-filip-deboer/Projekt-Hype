@@ -67,8 +67,14 @@ article {
 
 }
 
-.ads {
+.video {
   padding-left: 10px;
   padding-top: 5px;
-  
+  display: flex;
+  flex-direction: column;
+}
+
+.youtube {
+  display: flex;
+  flex-direction: row;
 }
