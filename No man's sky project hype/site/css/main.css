@@ -73,13 +73,13 @@ article {
 }
 
 .title {
-  font-size: 22px;
+  font-size: 25px;
   text-align: center;
+  color: white;
 }
 
 .video {
   padding-left: 10px;
-  padding-top: 5px;
   display: flex;
   flex-direction: column;
 }
