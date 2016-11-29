@@ -15,7 +15,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 80%;
+  width: 60%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -29,10 +29,11 @@ nav {
     flex-direction: row;
     flex-grow: 1;
     justify-content: center;
-    background-color: #2a3577;
-    margin-bottom: 5px;
-    margin-top: 5px;
+    background-color: #65233e;
+    margin-bottom: 5px; 
     width: 100%;
+    position: fixed;
+    top: 0; 
 }
 
 .link {
@@ -40,7 +41,7 @@ nav {
   flex-direction: row;
   padding: 30px;
   align-content: center;
-  color: black;
+  color: white;
   font-size: 25px;
   font-weight: bold;
   text-decoration: none;
@@ -54,6 +55,7 @@ article {
     font-size: 20px;
     font-family: sans-serif;
     font-style: italic;
+    margin-top: 100px;
 
 }
 
@@ -85,8 +87,4 @@ article {
 .youtube {
   display: flex;
   flex-direction: row;
-}
-
-.fixed {
-  
 }
