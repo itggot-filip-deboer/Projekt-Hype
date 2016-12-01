@@ -96,4 +96,5 @@ article {
   background-color: #65233e;
   padding: 20px;
   border-radius: 10px;
+  border: solid 10px rgba(0, 0, 0, 0.1);
 }
