@@ -30,10 +30,10 @@ nav {
     flex-grow: 1;
     justify-content: center;
     background-color: #65233e;
-    margin-bottom: 5px; 
+    margin-bottom: 5px;
     width: 100%;
     position: fixed;
-    top: 0; 
+    top: 0;
 }
 
 .link {
@@ -87,4 +87,13 @@ article {
 .youtube {
   display: flex;
   flex-direction: row;
+}
+.photo {
+  max-width: 100%;
+  height: auto;
+}
+.screenshots {
+  background-color: #65233e;
+  padding: 20px;
+  border-radius: 10px;
 }
