@@ -66,10 +66,10 @@ article {
 
 .box {
   display: flex;
-  background-color: white;
-  margin-bottom: 5px;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 25px;
   padding: 10px;
-
+  border-radius: 10px;
 }
 
 .title {
