@@ -56,7 +56,6 @@ article {
     font-family: sans-serif;
     font-style: italic;
     margin-top: 100px;
-
 }
 
 .facts {
@@ -95,5 +94,47 @@ article {
 .screenshots {
   background-color: #65233e;
   padding: 20px;
+}
+
+.articless {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: italic;
+    margin-top: 100px;
+}
+
+.titless {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 5;
+  background-color: #65233e;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-top: 15px;
+}
+
+.videofacts {
+  display: flex;
+  flex-direction: column;
+}
+
+.buy {
+  border: solid black 1px;
+  padding: 5px;
+  margin-top: 10px;
+  color: white;
+  background-color: #65233e;
+  text-decoration: none;
+}
+
+.general {
+  display: flex;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 25px;
+  padding: 10px;
   border-radius: 10px;
 }
