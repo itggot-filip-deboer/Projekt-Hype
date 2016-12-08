@@ -29,11 +29,12 @@ nav {
     flex-direction: row;
     flex-grow: 1;
     justify-content: center;
-    background-color: #65233e;
+    background-color: rgba(101,35,62,0.8);
     margin-bottom: 5px;
     width: 100%;
     position: fixed;
     top: 0;
+    
 }
 
 .link {
