@@ -31,9 +31,8 @@ body {
   margin-right: auto;
 }
 header {
-    display: flex;
-    flex-grow: 1;
-    justify-content: center;
+	padding-top: 50px;
+	margin-bottom: -150px;
 }
 nav {
     display: flex;
@@ -46,7 +45,7 @@ nav {
     position: fixed;
     top: 0;
     font-family: GeosansLight-NMS;
-    
+
 }
 
 .link {
@@ -83,7 +82,7 @@ article {
   padding: 10px;
   border-radius: 10px;
   color: white;
-  
+
 }
 
 .title {
@@ -133,7 +132,7 @@ article {
   border-bottom: solid white 4px;
   padding: 5px;
   font-size: 20px;
-  text-align: center; 
+  text-align: center;
 }
 
 .photo {
