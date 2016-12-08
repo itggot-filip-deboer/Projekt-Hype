@@ -143,8 +143,10 @@ article {
   height: auto;
 }
 .screenshots {
-  background-color: #65233e;
+  background-color: rgba(0, 0, 0, 0.65);
   padding: 20px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
 }
 
 .articless {
@@ -162,7 +164,7 @@ article {
   font-size: 30px;
   text-align: center;
   font-weight: 5;
-  background-color: #65233e;
+  background-color: rgba(0, 0, 0, 0.65);
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   padding-top: 15px;
@@ -232,7 +234,7 @@ article {
 .quote_box {
 	display: flex;
 	flex-direction: column;
-	background-color: rgba(101,35,62,0.8);
+	background-color: rgba(0, 0, 0, 0.65);
 	padding: 10px;
 	border-radius: 10px;
 	padding: auto;
