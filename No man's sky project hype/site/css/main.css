@@ -224,4 +224,42 @@ article {
   margin-bottom: 5px;
   border-radius: 10px;
 }
+<<<<<<< HEAD
+
+=======
+.quotes {
+	margin-top: 90px;
+}
+.quote_box {
+	display: flex;
+	flex-direction: column;
+	background-color: rgba(101,35,62,0.8);
+	padding: 10px;
+	border-radius: 10px;
+	padding: auto;
+	margin-top: 20px;
+	width: 100%;
+	text-align: center;
+	color: white;
+
+}
+
+.quote {
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	font-weight: bold;
+	font-size: 60px;
+  font-family: GeosansLight-NMS;
+}
+
+.author {
+	font-style: italic;
+	display: flex;
+	flex-direction: row;
+	margin-left: auto;
+	font-family: GeosansLight-NMS;
+	font-size: 30px;
+	margin-right: 50px;
+}
 
