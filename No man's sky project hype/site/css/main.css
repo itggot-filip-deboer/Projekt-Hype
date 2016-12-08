@@ -224,11 +224,10 @@ article {
   margin-bottom: 5px;
   border-radius: 10px;
 }
-<<<<<<< HEAD
 
-=======
 .quotes {
 	margin-top: 90px;
+	margin-bottom: 170px;
 }
 .quote_box {
 	display: flex;
@@ -262,4 +261,3 @@ article {
 	font-size: 30px;
 	margin-right: 50px;
 }
-
