@@ -90,6 +90,9 @@ article {
   text-align: center;
   color: white;
   font-family: GeosansLight-NMS;
+  background-color: rgba(0,0,0,0.65);
+  margin-bottom: 5px;
+  border-radius: 10px;
 }
 
 .contentvideo {
@@ -178,19 +181,47 @@ article {
   color: white;
   background-color: rgba(101,35,62,0.8);
   text-decoration: none;
+  font-family: GeosansLight-NMS;
 }
 
 .general {
   display: flex;
   background-color: rgba(0, 0, 0, 0.65);
-  margin-bottom: 25px;
+  margin-bottom: 10px;
   padding: 10px;
   border-radius: 10px;
   font-family: GeosansLight-NMS;
   color: white;
 }
 
-.titlefacts {
-  font-family: GeosansLight-NMS;
-  color: white;
+.break {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
 }
+
+.factsbox {
+  display: flex;
+  flex-direction: column;
+}
+
+.titlefacts {
+  font-size: 25px;
+  text-align: center;
+  color: white;
+  font-family: GeosansLight-NMS;
+  background-color: rgba(0,0,0,0.65);
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
+.titlebreak {
+  font-size: 25px;
+  text-align: center;
+  color: white;
+  font-family: GeosansLight-NMS;
+  background-color: rgba(0,0,0,0.65);
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
